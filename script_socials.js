@@ -36,7 +36,7 @@ const tabRecords = [
     type: 'on-site',
     salary: '$220k - $300k / year',
     location: 'New York, United States',
-    applicants: ['lilia', 'drew', 'melissa'],
+    applicants: ['one', 'two', 'three'],
     applicationsCount: 220
   },
 //  more data

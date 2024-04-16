@@ -149,8 +149,11 @@ header {
     opacity: 1;
     border-radius: 1rem;
     background: var(--job-bg);
+    cursor: pointer;
 }
-
+.job:hover {
+    background: #c3f0ffa6 !important;
+}
 .job__avatar {
     display: block;
     border-radius: 1rem;

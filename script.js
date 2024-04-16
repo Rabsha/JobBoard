@@ -36,7 +36,7 @@ const tabRecords = [
     type: 'on-site',
     salary: '$220k - $300k / year',
     location: 'New York, United States',
-    applicants: ['lilia', 'drew', 'melissa'],
+    applicants: ['one', 'two', 'three'],
     applicationsCount: 220
   },
   {
@@ -48,7 +48,7 @@ const tabRecords = [
     type: 'hybrid',
     salary: '$225k - $280k / year',
     location: 'San Francisco, United States',
-    applicants: [ 'drew', 'lilia', 'melissa'],
+    applicants: [ 'one', 'two', 'three'],
     applicationsCount: 240
   },
   {
@@ -60,7 +60,7 @@ const tabRecords = [
     type: 'hybrid',
     salary: '$215k - $260k / year',
     location: 'London, United Kingdom',
-    applicants: [ 'drew', 'lilia', 'melissa'],
+    applicants: [ 'one', 'two', 'three'],
     applicationsCount: 235
   },
   {
@@ -72,7 +72,7 @@ const tabRecords = [
     type: 'remote',
     salary: '$160k - $220k / year',
     location: 'London, United Kingdom',
-    applicants: [ 'drew', 'lilia', 'melissa'],
+    applicants: [ 'one', 'two', 'three'],
     applicationsCount: 200
   },
 ];
